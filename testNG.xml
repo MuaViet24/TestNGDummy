@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" > 
+<suite name="Fill Form">
+	
+	<test name="Fill Form Test">
+	
+		<classes>
+			<class name="com.test.FillForm.FillForm"/>
+		</classes>
+	</test>
+
+</suite>
